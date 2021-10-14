@@ -17,15 +17,5 @@ P.S. useIsFocused на второй вкладке (Navigation/Tickers.js) в д
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/50690721/137244362-65fc8f3e-2095-4f1e-b067-ca9f01e04b95.png" width="200" margin="auto">
-
-</p>
-<p align="center">
-  Первая вкладка
-</p>
-
-<p align="center">
 <img src="https://user-images.githubusercontent.com/50690721/137244406-67701be2-8fcd-4498-813c-21469bf0c97e.png" width="200" margin="auto">
-</p>
-<p align="center">
-  Вторая вкладка
 </p>
