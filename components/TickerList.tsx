@@ -79,7 +79,6 @@ const TickerList = ({
   const {dataset, loading, success, error} = useApi(active);
 
   useEffect(() => {
-    console.log({loading, success, error})
     if (loading && !success)
       onFirstLoading();
     if (error)
