@@ -91,9 +91,8 @@ const TickerList = ({
   return (
     <VirtualizedList
       data={dataset}
-      renderItem={({item, index}) => <TickerView ticker={item as TickerProps} />}
+      renderItem={({item, index}) => <TickerView key={index} ticker={item as TickerProps} />}
       getItemCount={_ => dataset.length}
-      keyExtractor={({item, index}) => index}
       getItem={(data, index) => data[index]}
     />
   )
