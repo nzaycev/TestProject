@@ -4,6 +4,8 @@
 
 Демо: https://snack.expo.dev/@n.zaycev/github.com-nzaycev-testproject
 
+P.S. useIsFocused на второй вкладке (Navigation/Tickers.js) в демо коде заменено на useEffect + navigation.addEventListeners
+
 Зависимости:
 - @react-navigation/native
 - @fortawesome/react-native
